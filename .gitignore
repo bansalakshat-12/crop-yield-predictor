@@ -1,0 +1,5 @@
+# Ignore model and system files
+*.pkl
+__pycache__/
+.DS_Store
+
